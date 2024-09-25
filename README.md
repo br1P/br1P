@@ -4,3 +4,7 @@ Hello! My name is Bruno, i am testing this with the egg course for java ! **Agua
 
 ## Contact me
 LinkedIn: https://www.linkedin.com/in/bruno-pruzsiani-dev
+
+## Languages 
+### English:C1
+### Español: Nativo
