@@ -5,5 +5,8 @@ Hello! My name is Bruno, i am testing this with the egg course for java ! **Agua
 ## Contact me
 LinkedIn: https://www.linkedin.com/in/bruno-pruzsiani-dev
 
+## Hobbies
+- Gaming
+- Drinking mate
 ## Skills
 ### Java, Angular, MySql
