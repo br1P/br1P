@@ -1,6 +1,6 @@
-# Hello! I'm Eggsy! Un saludo desde la pc de bruno!
+# Hello! I'm Bruno :)
 ## About me
-Hello! My name is Bruno, i am testing this with the egg course for java ! **Aguante egg!**
+Hello! My name is Bruno. Nice to meet you :)
 
 ## Contact me
 LinkedIn: https://www.linkedin.com/in/bruno-pruzsiani-dev
